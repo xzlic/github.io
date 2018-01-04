@@ -1,0 +1,50 @@
+{
+  "status": "0",
+  "data": [
+    {
+      "title": "游玩强度",
+      "isSingle": "1",
+      "data": [
+        {
+          "ZDXMC": "悠闲",
+          "ZDXLBH": "1"
+        },
+        {
+          "ZDXMC": "适中",
+          "ZDXLBH": "2"
+        },
+        {
+          "ZDXMC": "紧凑",
+          "ZDXLBH": "3"
+        },
+        
+      ]
+    },
+    {
+      "title": "旅行者",
+      "isSingle": "0",
+      "data": [
+        {
+          "ZDXMC": "独行",
+          "ZDXLBH": "1"
+        },
+        {
+          "ZDXMC": "朋友",
+          "ZDXLBH": "2"
+        },
+        {
+          "ZDXMC": "情侣",
+          "ZDXLBH": "3"
+        },
+        {
+          "ZDXMC": "亲子",
+          "ZDXLBH": "4"
+        },
+        {
+          "ZDXMC": "长者",
+          "ZDXLBH": "5"
+        }
+      ]
+    }
+  ]
+}
