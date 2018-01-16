@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.79221eca.css",
   "main.css.map": "static/css/main.79221eca.css.map",
-  "main.js": "static/js/main.97a7dfb6.js",
-  "main.js.map": "static/js/main.97a7dfb6.js.map",
+  "main.js": "static/js/main.3aaa88b9.js",
+  "main.js.map": "static/js/main.3aaa88b9.js.map",
   "static/js/0.fb1f4df8.chunk.js": "static/js/0.fb1f4df8.chunk.js",
   "static/js/0.fb1f4df8.chunk.js.map": "static/js/0.fb1f4df8.chunk.js.map",
   "static/js/1.f87112fe.chunk.js": "static/js/1.f87112fe.chunk.js",
@@ -138,6 +138,6 @@
   "static\\media\\wechat.png": "static/media/wechat.9f9b22d4.png",
   "vendor.css": "static/css/vendor.90450689.css",
   "vendor.css.map": "static/css/vendor.90450689.css.map",
-  "vendor.js": "static/js/vendor.018fb544.js",
-  "vendor.js.map": "static/js/vendor.018fb544.js.map"
+  "vendor.js": "static/js/vendor.7e5428cc.js",
+  "vendor.js.map": "static/js/vendor.7e5428cc.js.map"
 }
